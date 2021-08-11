@@ -1,2 +1,2 @@
 # apod
-this app load an image and description from nasa.api
+this app loads an image and description from nasa.api
